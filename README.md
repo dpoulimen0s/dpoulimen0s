@@ -19,7 +19,7 @@
 
 
 ## Social Media
-<a href="https://www.linkedin.com/in/dpoulimen0s/">
+<a href="https://www.linkedin.com/in/dpoulimen0s/" target=”_blank”>
   <img align="left" alt="Dimitris Poulimenos | LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
