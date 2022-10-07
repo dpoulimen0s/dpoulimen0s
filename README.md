@@ -29,5 +29,5 @@
 
 ## GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dpoulimen0s&show_icons=true&theme=gotham" alt="dpoulimenos" />
+<p align="left"> <img width="450" src="https://github-readme-stats.vercel.app/api?username=dpoulimen0s&show_icons=true&theme=gotham" alt="dpoulimenos" />
 
