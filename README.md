@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my personal blog and in a private RAT project.
-- 🌱 I’m currently learning about CyberSecurity
+- 🔭 I’m currently working on my personal blog and in a public CRM web app.
+- 🌱 I’m currently learning about Data Science and Web Development.
 - 💬 Ask me about anything, i am happy to help.
-- 📫 How to reach me: dpoulimenos.net@gmail.com
+- 📫 How to reach me: dpoulimenos.cs@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started university at the age of 30
 
