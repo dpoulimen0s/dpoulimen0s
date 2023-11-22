@@ -44,7 +44,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
   <div style="flex: 1;">
     <a href="http://www.github.com/dpoulimen0s" style="text-decoration: none;">
