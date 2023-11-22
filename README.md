@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my Github Profile
 ===========================================================================================================================================
 
-Computer and Data Scientist
----------------------------
-
 * 🌍  I'm based in Newcastle Upon Tyne
 * 🔭  I’m currently pursuing my masters degree
 * ✉️  You can contact me at [dpoulimenos.cs@gmail.com](mailto:dpoulimenos.cs@gmail.com)
@@ -12,6 +9,7 @@ Computer and Data Scientist
 * 💬 Ask me about anything, i am happy to help.
 * ⚡ Fun fact: I started university at the age of 30
 
+<br/>
 ## Languages and Tools: 
 
 <p align="left">
@@ -19,8 +17,9 @@ Computer and Data Scientist
 <code><img height="36" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 </p>
 
+<br/>
 
-### Socials
+## Socials
 
 <p align="left" style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/dpoulimenos" target="_blank" rel="noreferrer">
@@ -40,6 +39,7 @@ Computer and Data Scientist
   </a>
 </p>
 
+<br/>
 
 ## GitHub Stats
 
