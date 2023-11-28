@@ -44,4 +44,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## GitHub Stats
 
-<p align="left"> <img width="440" src="https://github-readme-stats.vercel.app/api?username=dpoulimen0s&show_icons=true&theme=gotham" alt="dpoulimenos" />
+<p align="center"> <img width="440" src="https://github-readme-stats.vercel.app/api?username=dpoulimen0s&show_icons=true&theme=gotham" alt="dpoulimenos" />
