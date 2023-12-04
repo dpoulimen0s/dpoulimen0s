@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on Machine/Deep Learning or Data Science projects
 * 💬 Ask me about anything, i am happy to help.
 * ⚡ Fun fact: I started university at the age of 30
-* You can find my website here [dpoulimen0s.github.io](https://dpoulimen0s.github.io)
+* You can find my website here [dpoulimen0s.github.io](https://dpoulimen0s.github.io){:target="_blank"}
 
 <br/>
 
