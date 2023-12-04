@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🔭  I’m currently pursuing my masters degree
 * ✉️  You can contact me at [dpoulimenos.cs@gmail.com](mailto:dpoulimenos.cs@gmail.com)
 * 🧠  I'm learning about Data Science and Artificial Intelligence
-* 🤝  I'm open to collaborating on Machine Learning or Data Science projects
+* 🤝  I'm open to collaborating on Machine/Deep Learning or Data Science projects
 * 💬 Ask me about anything, i am happy to help.
 * ⚡ Fun fact: I started university at the age of 30
 
