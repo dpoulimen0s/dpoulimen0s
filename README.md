@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my Github Profile
 ===========================================================================================================================================
 
-* 🌍  I'm based in Newcastle Upon Tyne
+* 🌍  I'm based in Athens Greece
 * 🔭  I’m currently pursuing my masters degree
 * ✉️  You can contact me at [dpoulimenos.cs@gmail.com](mailto:dpoulimenos.cs@gmail.com)
 * 🧠  I'm learning about Data Science and Artificial Intelligence
