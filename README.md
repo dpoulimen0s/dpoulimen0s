@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 * 🌍  I'm based in Athens Greece
-* 🔭  I’m currently pursuing my masters degree
+* 🔭  I’m currently focusing to get a job
 * ✉️  You can contact me at [dpoulimenos.cs@gmail.com](mailto:dpoulimenos.cs@gmail.com)
 * 🧠  I'm learning about Data Science and Artificial Intelligence
 * 🤝  I'm open to collaborating on Machine/Deep Learning or Data Science projects
