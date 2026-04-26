@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my Github Profile
-===========================================================================================================================================
+###
 
 * 🌍  I'm based in Athens Greece
 * 🔭  I’m currently focusing to get a job
@@ -14,6 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 
 ## Languages and Tools
+###
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="Git" /></a>
@@ -38,6 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 
 ## Socials
+###
 <p align="left">
   <a href="https://www.linkedin.com/in/dpoulimenos">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
@@ -50,6 +52,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 
 ## GitHub Stats
+###
 <p align="left">
   <img width="440" src="https://github-readme-stats.vercel.app/api?username=dpoulimen0s&show_icons=true&theme=default" />
 </p>
